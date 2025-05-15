@@ -1,6 +1,6 @@
 # Git Repo klonen
 
-#git
+#Git #Dotfiles
 
 ## Wie klont man ein Repo?
 
