@@ -27,5 +27,5 @@
 
 ## Gute Ressourcen
 https://thelinuxcode.com/vim_spell_check/
-https://www.vimfromscratch.com/articles/spell-and-grammar-vim
 
+https://www.vimfromscratch.com/articles/spell-and-grammar-vim
