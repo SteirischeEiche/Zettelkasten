@@ -17,6 +17,7 @@
 - Wenn du `:set spelllang=de_de` eingibst und kein deutsches Wörterbuch installiert ist, fragt dich Vim, ob es eines runterladen soll
 - Dann werden eine `.spl`- und eine `.sug`-Datei unter `/opt/homebrew/share/vim/vim*/spell/` abgelegt (wenn du Vim unter macOS mit Homebrew runter geladen hast)
 - Die `.sug`-Datei ist für die Vorschläge, die du mit `z=` abrufen kannst
+- Achtung: Die `.sug`-Datei kann bei großen Dokumenten die Performance beeinträchtigen
 
 ### Eigene Wörterliste (Spellfile)
 - Die Wörterlist liegt auch unter `/opt/homebrew/share/vim/vim*/spell/`
