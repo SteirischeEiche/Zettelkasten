@@ -6,6 +6,10 @@
 - KeePassXC ist benutzerfreundlich und wird regelmäßig aktualisiert
 - Ordner heißen in KeePassXC Gruppen
 
+## Verschlüsselung
+- Alles, was du in KeePassXC eingibst, wird verschlüsselt in der `kdbx`-Datei gespeichert
+- Wenn du deine Datenbank öffnest, wird sie entschlüsselt und im RAM gespeichert
+
 ## KeePassXC installieren und Datenbank erstellen
 - Es wird empfohlen, Auto-Updates in KeePassXC zu aktivieren
 - Alle Einstellungen auf den Standardwerten lassen, wenn du eine Datenbank erstellst
