@@ -3,6 +3,7 @@
 #Keepassxc #Dotfiles
 
 - Die Benutzer-Einstellungen werden in der Datei `keepassxc.ini` [gespeichert](https://wiki.gentoo.org/wiki/KeePassXC)
+- Zu allen Daten, die KeePassXC unter macOS speichert, s. ChatGPT-Chronik
 
 ---
 
