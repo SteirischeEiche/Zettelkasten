@@ -1,6 +1,6 @@
 # LibreWolf
 
-#Browser #Privacy #Dotfiles
+#Browser #Privacy
 
 - Niemals LibreWolf mit [[Tor]] benutzen (das Tor-Netzwerk funktioniert nicht, wenn du nicht den Tor-Browser benutzt)
 - Es wird empfohlen, DRM nicht zu aktivieren
