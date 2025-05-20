@@ -31,4 +31,6 @@
 - Webseiten wird die Sprache als `en-US` angezeigt
 - WebGL ist ausgeschaltet
 
+---
+
 - Letterboxing verbessert den Datenschutz, weil die Fenstergröße dann nicht mehr in deinem Fingerabdruck ist
