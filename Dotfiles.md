@@ -1,9 +1,12 @@
 # Dotfiles
 
-#Dotfiles #CLI #macOS #Unix
+#Dotfiles #Terminal #macOS
 
 ## Was bringen Dotfiles?
-- Apple ändert die Namen von Einstellungen mit neuen Updates
-- Mit Dotfiles (und einem Skript) können wir einen neuen Computer automatisch einrichten
-- Mit [[Git]] können werden Änderungen an den Dotfiles über die Zeit verfolgt
-- Programme legen ständig Dotfiles im Home-Verzeichnis an (lösche von Zeit zu Zeit die, die du nicht mehr brauchen)
+- Apple ändert zB die Namen von Einstellungen mit neuen Updates
+- Mit Dotfiles können wir einen neuen Computer automatisch einrichten
+- Mit [[Git]] können wir Änderungen an den Dotfiles über die Zeit verfolgen
+
+---
+
+- Programme legen ständig Dotfiles im `~`-Verzeichnis an. Lösche von Zeit zu Zeit die, die du nicht mehr brauchst.
