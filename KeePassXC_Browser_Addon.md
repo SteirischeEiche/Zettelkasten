@@ -18,3 +18,5 @@ ln -s ~/Library/Application\ Support/Mozilla/NativeMessagingHosts ~/Library/Appl
 
 ## Bedienung
 - Wenn du in KeePassXC einem Eintrag eine URL hinzufügst (`beispiel.com`), erkennt das Addon beim Einloggen auch Subdomains (`login.beispiel.com`)
+- Addon-Icon-Status:
+![Icon](Bilder/KeePassXC_Browser_Addon_Icon.png)
