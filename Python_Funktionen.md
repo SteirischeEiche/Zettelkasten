@@ -5,7 +5,6 @@
 - Mit Funktionen kannst du Code wiederverwenden ohne ihn kopieren und einfügen zu müssen
 - Den Input für eine Funktion nennt man Parameter
 - Variablen, die innerhalb einer Funktion deklariert werden, sind _nur dort_ verfügbar
-
 - Es wird _nur der Wert_ einer Variable an eine Funktion übergeben, nicht die Variable selbst
 
 ## Print() vs. return
