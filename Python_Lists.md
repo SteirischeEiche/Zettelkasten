@@ -14,7 +14,8 @@
 ## Syntax ohne Index
 - Man kann auch ohne Index auf die Elemente einer Liste zugreifen (s. Kapitel 9, Lektion 11 ff.)
 - Dies führt zu besser lesbarem Code (wenn einem der Index egal ist und es nur um den Wert geht)
-- Achtung: Wenn du etwas eingibst wie:
+- Mit der Ohne-Index-Syntax kannst du auf Elemente zugreifen, sie aber nicht verändern
+- Wenn du etwas eingibst wie:
 ```python
 zahlen = [1, 2, 3, 4]
 
