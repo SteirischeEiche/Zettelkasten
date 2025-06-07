@@ -1,6 +1,6 @@
 # Linux: Terminals und Shells
 
-#Terminal
+#Terminal #boot.dev
 
 - Ein Terminal (Terminal-Emulator) ist ein Programm, das dich Befehle eingeben lässt
 - _Welche_ Befehle ausgeführt werden können hängt von der Shell ab
