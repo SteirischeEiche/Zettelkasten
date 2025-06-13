@@ -10,3 +10,9 @@
 ## GitHub
 - Man kann auf GitHub eine private Email-Adresse (einen Alias) einrichten
 - Du solltest [[2FA]] für GitHub aktivieren
+
+---
+
+- Daten werden in der `gitconfig` in Key-Wert-Paaren gespeichert
+- Es gibt eine `gitconfig` auf mehreren Ebenen: System, global, lokal, worktree
+- Global überschreibt System, lokal überschreibt global usw.
