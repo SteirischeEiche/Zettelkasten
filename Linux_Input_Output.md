@@ -21,6 +21,10 @@
 - In Python kann man mit der `input`-Funktion aus dem Stdin lesen
 - `|` leitet Stdout eines Programms an Stdin eines anderen Programms weiter
 
+---
+
+- `/dev/null` ist ein "Schwarzes Loch". Alles, was du da reinschreibst, verschwindet
+
 ## Prozesse
 - Wenn ein Programm gerade ausgeführt wird, nennt man das einen Prozess
 - Mit `Ctrl+C` kannst du ein "SIGINT"-Signal an einen Prozess senden, das diesen beendet
