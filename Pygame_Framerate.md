@@ -10,7 +10,7 @@
 - Delta wird in der Mathematik verwendet, um die Änderung eines Wertes darzustellen
 - In der Spieleentwicklung verwendet man Delta-Time, um die Zeit darzustellen, die seit dem letzten Bild (Frame) vergangen ist
 - Damit kann man das Spiel von der Bildschirmaktualisierungsrate entkoppeln
-- Dh Spiel behält die gleiche Geschwindigkeit bei, egal wie schnell oder langsam der Computer ist
+- Dh das Spiel behält die gleiche Geschwindigkeit bei, egal wie schnell oder langsam der Computer ist
 - (Wird der Computer langsamer, wird das Spiel nur weniger flüssig aber nicht langsamer)
 
 ## FPS festlegen
