@@ -2,6 +2,11 @@
 
 #Python #Pygame #programmieren
 
+```python
+def rotate(self, dt):
+    self.rotation += PLAYER_TURN_SPEED * dt
+```
+
 - Die Methode dreht das Objekt, indem der Rotationswinkel (`self.rotation`) verändert wird
 - Delta-Time (`dt`) ist die Zeit, die seit dem letzten Frame vergangen ist
 - Dh `self.rotation += ...` erhöht den Rotationswert um einen Betrag, der von der Drehgeschwindigkeit (`PLAYER_TURN_SPEED`) und der Zeit seit dem letzten Frame abhängig ist
